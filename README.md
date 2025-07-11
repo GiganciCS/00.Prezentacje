@@ -7,4 +7,5 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 ## Prezentacje
 
 - ### [ 02. Zmienne i stałe](http://michcia.pl/csharp/02.zmienne_stale/02.zmienne-stale.pdf) | 27.06
-- ### 03. Operacje arytmetyczne | 04.07 (link pojawi się ok. 10.07)
+- ### [03. Operacje arytmetyczne](https://www.michcia.pl/csharp/03.operacje_arytmetyczne/03.operacje-arytmetyczne.pdf) | 04.07
+- ### [04. Operacje logiczne]([https://www.michcia.pl/csharp/03.operacje_arytmetyczne/03.operacje-arytmetyczne.pdf](https://www.michcia.pl/csharp/04.operacje_logiczne/04.operatory-logiczne_rzutowanie.pdf)) | 11.07
