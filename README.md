@@ -10,7 +10,7 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [03. Operacje arytmetyczne](https://www.michcia.pl/csharp/03.operacje_arytmetyczne/03.operacje-arytmetyczne.pdf) | 04.07
 - ### [04. Operacje logiczne](https://www.michcia.pl/csharp/04.operacje_logiczne/04.operatory-logiczne_rzutowanie.pdf) | 11.07
 - ### [05. Instrukcja warunkowa](https://www.michcia.pl/csharp/05.instrukcja_warunkowa/05.instrukcja_if.pdf) | 18.07
-- ### [06. Instrukcja warunkowa-cz 2. Klasa Random.](#) | 25.07
+- ### [06. Instrukcja warunkowa - cz 2. Klasa Random.](#) | 25.07
 
 ## Projekty
 
