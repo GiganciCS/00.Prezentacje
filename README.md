@@ -13,6 +13,7 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [06. Instrukcja warunkowa-cz 2. Klasa Random.](#) | 25.07
 
 ## Projekty
+
 Kody źródłowe do zadań, rozwiązywanych na zajęciach
 
 - ### [02. Zmienne](https://github.com/GiganciCS/02.Zmienne)
