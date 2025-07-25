@@ -20,4 +20,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [03. Operacje_arytmetyczne](https://github.com/GiganciCS/03.Operacje_arytmetyczne)
 - ### [04. Operacje_logiczne](https://github.com/GiganciCS/04.Operacje_logiczne)
 - ### [05. Instrukcja_warunkowa](https://github.com/GiganciCS/05.Instrukcja_warunkowa)
-- ### [06. Instrukcja_warunkowa2.Klasa_Random](#)
+- ### [06.Instrukcja_warunkowa-cz2_KlasaRandom](https://github.com/GiganciCS/06.Instrukcja_warunkowa-cz2_KlasaRandom.git)
