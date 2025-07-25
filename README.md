@@ -12,3 +12,11 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [05. Instrukcja warunkowa](https://www.michcia.pl/csharp/05.instrukcja_warunkowa/05.instrukcja_if.pdf) | 18.07
 - ### [06. Instrukcja warunkowa-cz 2. Klasa Random.](#) | 25.07
 
+## Projekty
+Kody źródłowe do zadań, rozwiązywanych na zajęciach
+
+- ### [02. Zmienne](https://github.com/GiganciCS/02.Zmienne)
+- ### [03. Operacje_arytmetyczne](https://github.com/GiganciCS/03.Operacje_arytmetyczne)
+- ### [04. Operacje_logiczne](https://github.com/GiganciCS/04.Operacje_logiczne)
+- ### [05. Instrukcja_warunkowa](https://github.com/GiganciCS/05.Instrukcja_warunkowa)
+- ### [06. Instrukcja_warunkowa2.Klasa_Random](#)
