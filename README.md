@@ -10,7 +10,11 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [03. Operacje arytmetyczne](https://www.michcia.pl/csharp/03.operacje_arytmetyczne/03.operacje-arytmetyczne.pdf) | 04.07
 - ### [04. Operacje logiczne](https://www.michcia.pl/csharp/04.operacje_logiczne/04.operatory-logiczne_rzutowanie.pdf) | 11.07
 - ### [05. Instrukcja warunkowa](https://www.michcia.pl/csharp/05.instrukcja_warunkowa/05.instrukcja_if.pdf) | 18.07
-- ### [06. Instrukcja warunkowa - cz 2. Klasa Random.](#) | 25.07
+- ### [06. Instrukcja warunkowa - cz 2. Klasa Random.](https://www.michcia.pl/csharp/06.instrukcja_warunkowa-cz2/06.instrukcja_if-cz2.pdf) | 25.07
+- ### [07. Instrukcja sterująca - SWITCH.](https://www.michcia.pl/csharp/07.instrukcja_sterujaca_switch/07.switch.pdf) | 01.08
+- ### [08. Dobre praktyki programistyczne.](https://www.michcia.pl/csharp/08.dobre-praktyki_programistyczne/08.dobre_praktyki.pdf) | 08.08
+- ### [09. Pętle - wstęp.](https://www.michcia.pl/csharp/09.petle_wstep/09.petle_wstep.pdf) | 22.08
+- ### [10. Pętle.](https://www.michcia.pl/csharp/10.petle/10_petle.pdf) | 29.08
 
 ## Projekty
 
@@ -21,3 +25,7 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [04. Operacje_logiczne](https://github.com/GiganciCS/04.Operacje_logiczne)
 - ### [05. Instrukcja_warunkowa](https://github.com/GiganciCS/05.Instrukcja_warunkowa)
 - ### [06.Instrukcja_warunkowa-cz2_KlasaRandom](https://github.com/GiganciCS/06.Instrukcja_warunkowa-cz2_KlasaRandom.git)
+- ### [07. Instrukcja sterująca - SWITCH.](https://github.com/GiganciCS/07.Instrukcja_sterujaca_SWITCH) 
+- ### [08. Dobre praktyki programistyczne.](https://github.com/GiganciCS/08.Dobre-praktyki_programistyczne)
+- ### [09. Pętle - wstęp.](https://github.com/GiganciCS/09.Petle_wstep)
+- ### [10. Pętle.](https://github.com/GiganciCS/10.Petle)
