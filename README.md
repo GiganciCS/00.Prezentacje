@@ -15,6 +15,7 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [08. Dobre praktyki programistyczne.](https://www.michcia.pl/csharp/08.dobre-praktyki_programistyczne/08.dobre_praktyki.pdf) | 08.08
 - ### [09. Pętle - wstęp.](https://www.michcia.pl/csharp/09.petle_wstep/09.petle_wstep.pdf) | 22.08
 - ### [10. Pętle.](https://www.michcia.pl/csharp/10.petle/10_petle.pdf) | 29.08
+- ### [11. Tablice.](https://www.michcia.pl/csharp/11.tablice/11_tablice.pdf) | 05.09
 
 ## Projekty
 
@@ -29,3 +30,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [08. Dobre praktyki programistyczne.](https://github.com/GiganciCS/08.Dobre-praktyki_programistyczne)
 - ### [09. Pętle - wstęp.](https://github.com/GiganciCS/09.Petle_wstep)
 - ### [10. Pętle.](https://github.com/GiganciCS/10.Petle)
+- - ### [11. Tablice.](https://github.com/GiganciCS/11.Tablice)
