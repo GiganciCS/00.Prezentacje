@@ -30,4 +30,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [08. Dobre praktyki programistyczne.](https://github.com/GiganciCS/08.Dobre-praktyki_programistyczne)
 - ### [09. Pętle - wstęp.](https://github.com/GiganciCS/09.Petle_wstep)
 - ### [10. Pętle.](https://github.com/GiganciCS/10.Petle)
-- - ### [11. Tablice.](https://github.com/GiganciCS/11.Tablice)
+- ### [11. Tablice.](https://github.com/GiganciCS/11.Tablice)
