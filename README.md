@@ -18,6 +18,7 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [11. Tablice.](https://www.michcia.pl/csharp/11.tablice/11_tablice.pdf) | 05.09
 - ### [12. Metody - cz. 1.](https://www.michcia.pl/csharp/12i13.metody/12_metody-cz1.pdf) | 12.09
 - ### [13. Metody - cz. 2.](https://www.michcia.pl/csharp/12i13.metody/13_metody-cz2.pdf) | 19.09
+- ### [14. Powtórzenie wiadomości. Git i GitHub](https://www.michcia.pl/csharp/12i13.metody/14_powtorzenie.pdf) | 26.09
 
 
 ## Projekty
@@ -36,3 +37,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [11. Tablice.](https://github.com/GiganciCS/11.Tablice)
 - ### [12. Metody - część 1.](https://github.com/GiganciCS/12.Metody-cz1)
 - ### [13. Metody - część 2.](https://github.com/GiganciCS/13.Metody-cz2)
+- ### [14. Powtórzenie wiadomości. GitHub i Git.](https://github.com/GiganciCS/14.Powtorzenie-GitHub)
