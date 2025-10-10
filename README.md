@@ -19,6 +19,7 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [12. Metody - cz. 1.](https://www.michcia.pl/csharp/12i13.metody/12_metody-cz1.pdf) | 12.09
 - ### [13. Metody - cz. 2.](https://www.michcia.pl/csharp/12i13.metody/13_metody-cz2.pdf) | 19.09
 - ### [14. Powtórzenie wiadomości. Git i GitHub](https://www.michcia.pl/csharp/14.powtorzenie/14_powtorzenie.pdf) | 26.09
+- ### 15 / 16. Brick Game | brak prezentacji | 03.10, 10.10
 
 
 ## Projekty
@@ -38,3 +39,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [12. Metody - część 1.](https://github.com/GiganciCS/12.Metody-cz1)
 - ### [13. Metody - część 2.](https://github.com/GiganciCS/13.Metody-cz2)
 - ### [14. Powtórzenie wiadomości. GitHub i Git.](https://github.com/GiganciCS/14.Powtorzenie-GitHub)
+- ### [15 / 16. Brick Game](https://github.com/GiganciCS/15-16.BrickGame)
