@@ -44,3 +44,7 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [13. Metody - część 2.](https://github.com/GiganciCS/13.Metody-cz2)
 - ### [14. Powtórzenie wiadomości. GitHub i Git.](https://github.com/GiganciCS/14.Powtorzenie-GitHub)
 - ### [15 / 16. Brick Game](https://github.com/GiganciCS/15-16.BrickGame)
+- ### [17. Zgadywanka](https://github.com/GiganciCS/17.Zgadywanka)
+- ### [18. Chatbot z NPC](https://github.com/GiganciCS/18.ChatbotNPC)
+- ### [19. Przetwarzanie obrazu](https://github.com/GiganciCS/19.Przetwarzanie-obrazu)
+- ### [20. Wstęp do OOP](https://github.com/GiganciCS/20.WstepOOP)
