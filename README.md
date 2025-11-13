@@ -20,6 +20,10 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [13. Metody - cz. 2.](https://www.michcia.pl/csharp/12i13.metody/13_metody-cz2.pdf) | 19.09
 - ### [14. Powtórzenie wiadomości. Git i GitHub](https://www.michcia.pl/csharp/14.powtorzenie/14_powtorzenie.pdf) | 26.09
 - ### 15 / 16. Brick Game | brak prezentacji | 03.10, 10.10
+- ### 17. Zgadywanka | brak prezentacji | 17.10
+- ### 18. Chatbot z NPC | brak prezentacji | 24.10
+- ### 19. Przetwarzanie obrazu | brak prezentacji | 31.10
+- ### [20. Wstęp do programowania obiektowego](https://www.michcia.pl/csharp/20.wstep-oop/20_wstep-oop.pdf) | 07.11
 
 
 ## Projekty
