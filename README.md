@@ -24,11 +24,11 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### 18. Chatbot z NPC | brak prezentacji | 24.10
 - ### 19. Przetwarzanie obrazu | brak prezentacji | 31.10
 - ### [20. Wstęp do programowania obiektowego](https://www.michcia.pl/csharp/20.wstep-oop/20_wstep-oop.pdf) | 07.11
-- ### [21. Dziedziczenie](#)  | 14.11
-- ### [22. Dziedziczenie - cz. 2. Elementy statyczne, Listy](#)  | 21.11
-- ### [23. Powtórka OOP. Gra RPG](#)  | 28.11
-- ### [24. Wstęp do Rayliba](#)  | 05.12
-- ### [25. Gra Snake - cz. 1](#)  | 12.12
+- ### [21. Dziedziczenie](https://www.michcia.pl/csharp/21.dziedziczenie/21_dziedziczenie-konstruktor.pdf)  | 14.11
+- ### [22. Dziedziczenie - cz. 2. Elementy statyczne, Listy](#) -> w trakcie przygotowania | 21.11
+- ### 23. Powtórka OOP. Gra RPG | brak prezentacji | 28.11
+- ### [24. Wstęp do Rayliba](#)  -> w trakcie przygotowania | 05.12
+- ### 25. Gra Snake - cz. 1 | brak prezentacji | 12.12
 
 
 ## Projekty
@@ -53,8 +53,8 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [18. Chatbot z NPC](https://github.com/GiganciCS/18.ChatbotNPC)
 - ### [19. Przetwarzanie obrazu](https://github.com/GiganciCS/19.Przetwarzanie-obrazu)
 - ### [20. Wstęp do OOP](https://github.com/GiganciCS/20.WstepOOP)
-- ### [21. Dziedziczenie](#)
-- ### [22. Dziedziczenie - cz. 2. Elementy statyczne, Listy](#)
-- ### [23. Powtórka OOP. Gra RPG](#)
-- ### [24. Wstęp do Rayliba](#)
+- ### [21. Dziedziczenie](https://github.com/GiganciCS/21.Dziedziczenie)
+- ### [22. Dziedziczenie - cz. 2. Elementy statyczne, Listy](https://github.com/GiganciCS/22.Elementy_statyczne-Listy)
+- ### [23. Powtórka OOP. Gra RPG](https://github.com/GiganciCS/23.Powtorzenie_GraRPG)
+- ### [24. Wstęp do Rayliba](https://github.com/GiganciCS/24.Wstep_Raylib)
 - ### [25. Gra Snake - cz. 1](https://github.com/GiganciCS/25.GraSnake-cz1)
