@@ -29,6 +29,9 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### 23. Powtórka OOP. Gra RPG | brak prezentacji | 28.11
 - ### [24. Wstęp do Rayliba](#)  -> w trakcie przygotowania | 05.12
 - ### 25. Gra Snake - cz. 1 | brak prezentacji | 12.12
+- ### 26. Gra Snake - cz. 2 | brak prezentacji | 19.12
+- ### 25. Flappy Bird - cz. 1 | brak prezentacji | 02.01
+- ### 25. Flappy Bird - cz. 2 | brak prezentacji | 09.01
 
 
 ## Projekty
@@ -58,3 +61,5 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [23. Powtórka OOP. Gra RPG](https://github.com/GiganciCS/23.Powtorzenie_GraRPG)
 - ### [24. Wstęp do Rayliba](https://github.com/GiganciCS/24.Wstep_Raylib)
 - ### [25. Gra Snake - cz. 1](https://github.com/GiganciCS/25.GraSnake-cz1)
+- ### [26. Gra Snake - cz. 2](https://github.com/GiganciCS/25.GraSnake-cz1)
+- ### [27-28. Flappy Bird - cz. 1 i 2.](https://github.com/GiganciCS/25.GraSnake-cz1)
