@@ -61,5 +61,5 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [23. Powtórka OOP. Gra RPG](https://github.com/GiganciCS/23.Powtorzenie_GraRPG)
 - ### [24. Wstęp do Rayliba](https://github.com/GiganciCS/24.Wstep_Raylib)
 - ### [25. Gra Snake - cz. 1](https://github.com/GiganciCS/25.GraSnake-cz1)
-- ### [26. Gra Snake - cz. 2](https://github.com/GiganciCS/25.GraSnake-cz1)
-- ### [27-28. Flappy Bird - cz. 1 i 2.](https://github.com/GiganciCS/25.GraSnake-cz1)
+- ### [26. Gra Snake - cz. 2](https://github.com/GiganciCS/26.GraSnake-cz2)
+- ### [27-28. Flappy Bird - cz. 1 i 2.](https://github.com/GiganciCS/27.28.FlappyBird)
