@@ -30,8 +30,9 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [24. Wstęp do Rayliba](#)  -> w trakcie przygotowania | 05.12
 - ### 25. Gra Snake - cz. 1 | brak prezentacji | 12.12
 - ### 26. Gra Snake - cz. 2 | brak prezentacji | 19.12
-- ### 25. Flappy Bird - cz. 1 | brak prezentacji | 02.01
-- ### 25. Flappy Bird - cz. 2 | brak prezentacji | 09.01
+- ### 27. Flappy Bird - cz. 1 | brak prezentacji | 02.01
+- ### 28. Flappy Bird - cz. 2 | brak prezentacji | 09.01
+- ### [29. Zadania samodzielne](https://michcia.pl/csharp/29.zadania_samodzielne/Zadania_.pdf) | 16.01
 
 
 ## Projekty
@@ -63,3 +64,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [25. Gra Snake - cz. 1](https://github.com/GiganciCS/25.GraSnake-cz1)
 - ### [26. Gra Snake - cz. 2](https://github.com/GiganciCS/26.GraSnake-cz2)
 - ### [27-28. Flappy Bird - cz. 1 i 2.](https://github.com/GiganciCS/27.28.FlappyBird)
+- ### [29. Zadania samodzielne](#) -> dostępne od 23.01
