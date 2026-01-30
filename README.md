@@ -64,4 +64,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [25. Gra Snake - cz. 1](https://github.com/GiganciCS/25.GraSnake-cz1)
 - ### [26. Gra Snake - cz. 2](https://github.com/GiganciCS/26.GraSnake-cz2)
 - ### [27-28. Flappy Bird - cz. 1 i 2.](https://github.com/GiganciCS/27.28.FlappyBird)
-- ### [29. Zadania samodzielne](#) -> dostępne od 23.01
+- ### [29. Zadania samodzielne](https://github.com/GiganciCS/29.Zadania-samodzielne)
