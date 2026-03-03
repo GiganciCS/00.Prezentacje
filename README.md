@@ -37,7 +37,7 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### 31. SpaceInvaders - cz. 2  | brak prezentacji | 30.01
 - ### 32. Pong  | brak prezentacji | 06.02
 - ### 33. 34.  Gra w życie  | brak prezentacji | 13.02, 20.02
-- ### 35.  Sposoby przechowywania danych | brak prezentacji | 27.02
+- ### [35.  Sposoby przechowywania danych](https://michcia.pl/csharp/35.sposoby-przechowywania-danych/)| 27.02
 
 
 ## Projekty
