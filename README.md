@@ -72,4 +72,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [29. Zadania samodzielne](https://github.com/GiganciCS/29.Zadania-samodzielne)
 - ### [30 - 31. Space Invaders](https://github.com/GiganciCS/30.31.Space_Invaders)
 - ### [32. Pong](https://github.com/GiganciCS/32.Pong)
-- ### [33 - 34. Gra w życie](#)
+- ### [33 - 34. Gra w życie](https://github.com/GiganciCS/33.34.Gra-w-zycie)
