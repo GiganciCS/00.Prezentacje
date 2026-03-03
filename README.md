@@ -35,6 +35,7 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [29. Zadania samodzielne](https://michcia.pl/csharp/29.zadania_samodzielne/Zadania_.pdf) | 16.01
 - ### 30. SpaceInvaders - cz. 1 | brak prezentacji | 23.01
 - ### 31. SpaceInvaders - cz. 2  | brak prezentacji | 30.01
+- ### 31. Pong  | brak prezentacji | 06.02
 
 
 ## Projekty
@@ -68,3 +69,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [27-28. Flappy Bird - cz. 1 i 2.](https://github.com/GiganciCS/27.28.FlappyBird)
 - ### [29. Zadania samodzielne](https://github.com/GiganciCS/29.Zadania-samodzielne)
 - ### [30 - 31. Space Invaders](https://github.com/GiganciCS/30.31.Space_Invaders)
+- ### [32. Pong](https://github.com/GiganciCS/32.Pong)
