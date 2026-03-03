@@ -73,3 +73,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [30 - 31. Space Invaders](https://github.com/GiganciCS/30.31.Space_Invaders)
 - ### [32. Pong](https://github.com/GiganciCS/32.Pong)
 - ### [33 - 34. Gra w życie](https://github.com/GiganciCS/33.34.Gra-w-zycie)
+- ### [35. Sposoby przechowywania danych](https://github.com/GiganciCS/35.Sposoby-przechowywania-danych)
